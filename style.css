@@ -4,3 +4,6 @@
 .btn-color{
     background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
 }
+.feature-card-bg{
+    background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+}
